@@ -3,7 +3,7 @@
 
 ## Screenshots
 <img src="./Home.jpg">
-<img src="./Set_time.jpg">
+<img src="./Set-time.jpg">
 
 
 
