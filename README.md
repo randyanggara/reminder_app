@@ -1,5 +1,6 @@
 # Reminder App
 
+A Simple and Sleek Task Scheduler app made Using Flutter and Material UI. 
 
 ## Screenshots
 
