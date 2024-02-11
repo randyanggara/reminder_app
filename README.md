@@ -1,7 +1,7 @@
-## Reminder App
+# Reminder App
 
-# A Simple and Sleek Task Scheduler app made Using Flutter and Material UI. 
-# Download for Android [APK](https://github.com/AshishKumarD/Reminder_App/releases/download/v0.0.1/ReminderApp.apk)
+## A Simple and Sleek Task Scheduler app made Using Flutter and Material UI. 
+### Download for Android [APK](https://github.com/AshishKumarD/Reminder_App/releases/download/v0.0.1/ReminderApp.apk)
 
 <p align="center">
   <img src="./Home.jpg" width="30%">
